@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGsRepository.Core", "RPGsRepository.Core\RPGsRepository.Core.csproj", "{DAAD8184-73A2-4377-8EE2-71B302652D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGsRepository.Android", "RPGsRepository.Android\RPGsRepository.Android.csproj", "{0E69C3D9-3449-4716-92EB-C889DEA0A07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAD8184-73A2-4377-8EE2-71B302652D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAD8184-73A2-4377-8EE2-71B302652D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAD8184-73A2-4377-8EE2-71B302652D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAD8184-73A2-4377-8EE2-71B302652D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E69C3D9-3449-4716-92EB-C889DEA0A07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E69C3D9-3449-4716-92EB-C889DEA0A07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E69C3D9-3449-4716-92EB-C889DEA0A07F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0E69C3D9-3449-4716-92EB-C889DEA0A07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E69C3D9-3449-4716-92EB-C889DEA0A07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E69C3D9-3449-4716-92EB-C889DEA0A07F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DCB3EF5-DFBB-4FE0-84D0-64B282353741}
+	EndGlobalSection
+EndGlobal
