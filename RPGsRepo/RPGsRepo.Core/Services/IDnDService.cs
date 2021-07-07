@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using RPGsRepository.Core.Models;
+using RPGsRepo.Core.Models;
 
-namespace RPGsRepository.Core.Services
+namespace RPGsRepo.Core.Services
 {
     public interface IDnDService
     {

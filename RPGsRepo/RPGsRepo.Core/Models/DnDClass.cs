@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RPGsRepository.Core.Models
+namespace RPGsRepo.Core.Models
 {
     public class DnDClass
     {

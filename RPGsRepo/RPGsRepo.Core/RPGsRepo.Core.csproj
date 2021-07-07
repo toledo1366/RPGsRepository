@@ -4,4 +4,12 @@
     <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="RestSharp" />
+    <None Remove="MvvmCross" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="106.11.7" />
+    <PackageReference Include="MvvmCross" Version="8.0.1" />
+  </ItemGroup>
 </Project>

@@ -1,10 +1,10 @@
 ﻿using System;
 using MvvmCross;
 using MvvmCross.ViewModels;
-using RPGsRepository.Core.Services;
-using RPGsRepository.Core.ViewModels;
+using RPGsRepo.Core.Services;
+using RPGsRepo.Core.ViewModels;
 
-namespace RPGsRepository.Core
+namespace RPGsRepo.Core
 {
     public class App:MvxApplication
     {

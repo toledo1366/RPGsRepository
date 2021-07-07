@@ -1,5 +1,5 @@
 ﻿using System;
-namespace RPGsRepository.Core.Helpers
+namespace RPGsRepo.Core.Helpers
 {
     public class Constants
     {

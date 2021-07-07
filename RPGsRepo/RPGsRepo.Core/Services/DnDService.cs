@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using RestSharp;
-using RPGsRepository.Core.Models;
+using RPGsRepo.Core.Models;
+using RPGsRepo.Core.Services;
 
-namespace RPGsRepository.Core.Services
+namespace RPGsRepo.Core.Services
 {
     public class DnDService:IDnDService
     {
