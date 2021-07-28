@@ -7,7 +7,9 @@ namespace RPGsRepo.Core.Services
 {
     public interface IDnDService
     {
-        List<DnDClass> GetAllDnDClasses(string url);
-        DnDClass GetDnDClass(string url);
+        List<DnDClass> GetAllClasses(string url);
+        DnDClass GetClass(string url);
+        List<DnDRaces> GetAllRaces(string url);
+        DnDRaces GetRace(string url);
     }
 }
